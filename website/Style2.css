@@ -8,6 +8,16 @@ img {
     display: flex;
     justify-content: center;
 }
-h1 {
-    justify-content: center;
+.center{
+    text-align: center;
+    font-family: cursive;
+}
+.space{
+   display:flex;
+   justify-content: space-between;
+}
+
+.sfondo{
+    background-color: rgb(177, 250, 234);
+    border-radius: 30px;
 }
