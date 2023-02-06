@@ -4,13 +4,14 @@ img {
     height: 250px;
 }
 
-.image-box{
+.image-uno{
     display: flex;
     justify-content: center;
 }
 .center{
     text-align: center;
     font-family: cursive;
+    color:rgb(255, 0, 0)
 }
 .space{
    display:flex;
@@ -18,7 +19,7 @@ img {
 }
 
 .sfondo{
-    background-color: rgb(177, 250, 234);
+    background-color: rgb(183, 248, 234);
     border-radius: 30px;
 }
 
@@ -28,5 +29,12 @@ img {
 }
 
 body {
-    background: rgb(78, 104, 252);
-}
+    background-image: url(images/arenamilano.jpg);
+    background-color: #cccccc;
+    background-size: cover
+   }
+
+h3{
+    text-align: center
+   }
+
