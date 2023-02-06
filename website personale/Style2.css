@@ -1,0 +1,40 @@
+img {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.image-uno{
+    display: flex;
+    justify-content: center;
+}
+.center{
+    text-align: center;
+    font-family: cursive;
+    color:rgb(255, 0, 0)
+}
+.space{
+   display:flex;
+   justify-content: space-between;
+}
+
+.sfondo{
+    background-color: rgb(183, 248, 234);
+    border-radius: 30px;
+}
+
+.style {
+   font-family: cursive;
+   text-align: center;
+}
+
+body {
+    background-image: url(images/arenamilano.jpg);
+    background-color: #cccccc;
+    background-size: cover
+   }
+
+h3{
+    text-align: center
+   }
+
